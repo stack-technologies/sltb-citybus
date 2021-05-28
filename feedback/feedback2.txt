@@ -8,3 +8,5 @@ Test symbols
 Test 2
 
 Popup
+
+Popup 2
