@@ -45,3 +45,6 @@ Qert
 Q
 
 Gfhh
+
+
+Test toast size
