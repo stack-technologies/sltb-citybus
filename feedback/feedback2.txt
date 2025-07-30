@@ -317,3 +317,6 @@ Borell
 
 
 Sammanthurai 
+
+
+This app gives two work to find the bus number. And isnt easy to understand the arrival time. We have to look at the schedule and then the map. It isnt just user friendly.
